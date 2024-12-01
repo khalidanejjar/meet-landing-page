@@ -71,12 +71,9 @@ body{
 .img_1 {
     transform: translateY(-10%);
 }
-.img_1 img{
-    transform: translateX(-6%);
-}
+
 .img_2 img{
     margin-top: 2rem;
-    transform: translateX(16%);
 }
 .img_tablet{
     display: none;
